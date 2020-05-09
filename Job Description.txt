@@ -1,0 +1,27 @@
+(This is for example only)
+
+JOB Title: dat* scienti*t
+
+Key Accountabilities:
+
+Partner with internal stakeholders from multiple departments to identify opportunity for applying data science to solve complex business challenges such as maximize yield, process robustness, predictable supply, proactive identification of potential issues.
+Extract, transform and analyze data from multiple data sources ensuring data quality and integrity is maintained from source to the final output. Develop and implement algorithms using advanced statistical and mathematical methods.
+Recommend and lead implementation of Process Analytical Technologies to enable data capture for use in quantitative analysis and improved level of process understanding.
+Provide clear and concise oral and written communication.
+Promote a strong quality mindset with a strong focus on data integrity, validation and data governance.
+
+Education and Experience:
+
+MS or PhD in Computer Science, Statistics, Applied Mathematics, Operations Research, Computational Biology or a similar technical field
+Minimum 3 years industry experience
+Strong experience in delivering insights through statistical data analysis, data modeling and data visualization
+Experience using tools such as R, SAS, SAS JMP, Python, Matlab, Statistica
+Experience with developing business requirements, use cases and user stories in a data analytics context
+Experience with data warehousing and business intelligence tools and platforms
+Exposure to best practices in data management and data governance practices
+Ability to deliver projects with complex requirements and a strong customer focus
+Ability to influence and communicate with a diverse group of stakeholders from multiple levels of management
+Ability to succeed in a team-oriented environment under very dynamic conditions
+Project Management and People Management experience
+Experience with Industrial Internet of Things
+Experience with Big Data ecosystem
